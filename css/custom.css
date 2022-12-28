@@ -29,9 +29,16 @@ body {
 	
 }
 * {
-	color: #C4C4C4;
+	color: #F0F0F0;
 }
 
 .jumbotron {
-	background-color: #000000;
+	background-color: #111111;
+}
+
+.email-label {
+  font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-weight: 200;
+	width: 80px;
+	display: inline-block;
 }

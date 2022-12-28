@@ -5,14 +5,19 @@
 	font-size: 0.7em;
 }
 .timestamp {
+  font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
 	font-weight: 200;
-	width: 40px;
+	width: 50px;
 	display: inline-block;
 }
 .track-details {
 	display: inline-block;
 }
-.track-name, .artist-name {
+.track-name {
+  font-weight: 700;
+	white-space: nowrap;
+}
+.artist-name {
 	white-space: nowrap;
 }
 body {

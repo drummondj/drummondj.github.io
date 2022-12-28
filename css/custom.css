@@ -1,0 +1,32 @@
+/* CSS Document */
+
+.track-list-item {
+	text-align: left;
+	font-size: 0.7em;
+}
+.timestamp {
+	font-weight: 200;
+	width: 40px;
+	display: inline-block;
+}
+.track-details {
+	display: inline-block;
+}
+.track-name, .artist-name {
+	white-space: nowrap;
+}
+body {
+	background-color: #242424;
+}
+
+.modal-content, .list-group-item {
+	background-color: #000000;
+	
+}
+* {
+	color: #C4C4C4;
+}
+
+.jumbotron {
+	background-color: #000000;
+}
